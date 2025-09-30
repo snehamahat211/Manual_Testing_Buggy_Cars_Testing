@@ -15,6 +15,17 @@ The Buggy Car Rating system is a web application where users can rate cars, shar
 The purpose of manual testing is to verify that the application works as expected by executing test cases without automation tools. It helps identify defects in functionality, usability, and design from a real user’s perspective before release.
 
 ## UI of Buggy cars rating
+#### 1.
+![Output](UI1.png)
+
+#### 2. 
+![Output](UI2.png)
+
+#### 3. 
+![Output](UI3.png)
+
+###4.
+![Output](UI4.png)
 
 
 
