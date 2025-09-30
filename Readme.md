@@ -19,13 +19,13 @@ The purpose of manual testing is to verify that the application works as expecte
 ![pagesfortest](UI-1.png)
 
 #### 2. 
-![Output](UI2.png)
+![Output](UI-2.png)
 
 #### 3. 
-![Output](UI3.png)
+![Output](UI-3.png)
 
 ###4.
-![Output](UI4.png)
+![Output](UI-4.png)
 
 
 
