@@ -16,7 +16,7 @@ The purpose of manual testing is to verify that the application works as expecte
 
 ## UI of Buggy cars rating
 #### 1.
-![Output](UI1.png)
+![pagesfortest](UI-1.png)
 
 #### 2. 
 ![Output](UI2.png)
